@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.teal-icon {
+    color: teal; /* This will make the icon teal colored */
+  }
