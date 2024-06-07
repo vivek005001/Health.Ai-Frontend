@@ -35,9 +35,8 @@ const Sidebar = ({ isOpen, toggleSidebar }) => {
       {isOpen && (
         <nav>
           <ul>
-            <li className="p-4">Home</li>
-            <li className="p-4">About</li>
-            <li className="p-4">Contact</li>
+            <li className="p-4">Googel Fit</li>
+            
           </ul>
         </nav>
       )}
